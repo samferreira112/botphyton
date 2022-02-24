@@ -1,0 +1,12 @@
+{
+    "language": "pt_br",
+    "exchange_time_in_minutes": "7",
+    "expiration_payment_in_minutes": "60",
+    "token_bot": "5119362872:AAG2NvemW710QhO-5XeF8DJeVOsaHEdQdeU",
+    "user_suporte": "@darkgamesoficial",
+    "minimum_recharge": "10",
+    "footer_text": "*Bot by*: @LengoDev",
+    "donos": [
+        "1693516922"
+    ]
+}
